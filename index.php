@@ -12,7 +12,7 @@ if(date("H")<=18){
 echo "Buongiorno ";
 } else echo "Buonasera ";
 
-echo date("Y-m-d H:i:s");
+echo date("Y-m-d H:i:s"); //stampa del formato della data.
 ?>
 </h1>
 </body>
